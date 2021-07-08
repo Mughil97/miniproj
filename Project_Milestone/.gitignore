@@ -1,0 +1,5 @@
+app.log
+.vscode/
+__pycache__/
+env/
+migrations/
